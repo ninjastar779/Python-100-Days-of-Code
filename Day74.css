@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    color: red;
+    background-color: rgb(44, 43, 43);
+}
+
+h2{
+    text-align: center;
+    color: blue;
+    background-color: black;
+}
+
+div{
+    text-align: center;
+    color: green;
+    background-color: black;
+    border: 20px;
+}
+
+body{
+    background-color: black;
+}
+
